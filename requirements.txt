@@ -1,0 +1,9 @@
+flwr
+
+numpy
+
+pandas
+
+scikit-learn
+
+matplotlib
